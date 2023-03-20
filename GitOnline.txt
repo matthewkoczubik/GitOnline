@@ -1,2 +1,7 @@
 TEST
-"C:\Users\160017712\Documents\GIT\GitOnline"
+
+C:\Users\160017712\Documents\GIT\GitOnline
+
+Pushing to github:	git remote add origin https://github.com/matthewkoczubik/GitOnline.git
+
+___
